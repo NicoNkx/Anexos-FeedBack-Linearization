@@ -24,3 +24,11 @@ Este repositorio está pensado como un recurso educativo y de referencia. ¡Sié
    - El modelo está **dividido en sistemas y subsistemas**, lo que facilita su comprensión, modificación y análisis por partes.
 
 > 💡 No se requieren pasos adicionales para obtener los resultados: todo el flujo está automatizado y diseñado para máxima claridad y reproducibilidad.
+
+---
+
+## ⚠️ NOTA IMPORTANTE SOBRE VISUALIZACIÓN ⚠️
+
+> 🔽 **Para una mejor experiencia**, se recomienda **descargar los archivos directamente** desde el repositorio.  
+> GitHub puede **no visualizar correctamente** archivos como `.mlx`, `.slx` o PDF dentro del navegador.  
+> Al abrirlos localmente en MATLAB y Simulink, obtendrás una visualización completa, interactiva y fiel al diseño original.
