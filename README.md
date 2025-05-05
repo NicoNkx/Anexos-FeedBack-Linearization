@@ -13,4 +13,4 @@ Este repositorio contiene los **anexos y archivos complementarios** del trabajo 
 
 Todos los archivos están organizados para que puedan ser **ejecutados y reutilizados fácilmente**. Se recomienda contar con una instalación de **MATLAB con Symbolic Math Toolbox** y **Simulink** para asegurar compatibilidad.
 
-Este repositorio está pensado como un recurso educativo y de referencia. ¡Siéntete libre de explorar, replicar y adaptar el material según tus necesidades!
+Este repositorio está pensado como un recurso educativo y de referencia. ¡Siéntete libre de explorar, replicar!
