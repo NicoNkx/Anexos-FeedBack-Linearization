@@ -13,7 +13,7 @@ Es evidente que el sistema tiene dos grados de libertad, correspondientes a:
 Las coordenadas generalizadas son, por tanto:
 
 - La posición angular del motor $\theta$.
-- El desplazamiento angular de la articulación flexible $\beta$ (ver Figura 5).
+- El desplazamiento angular de la articulación flexible $\beta$.
 
 La energía potencial y cinética del sistema están dadas respectivamente por:
 
