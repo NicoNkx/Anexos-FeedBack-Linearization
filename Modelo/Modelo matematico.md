@@ -23,19 +23,20 @@ Donde:
 
 - Energía potencial gravitacional (Vg):
 
-  $$ V_g = m g h \cos(\\theta + \\beta) $$
+  $$ V_g = m g h \cos(\theta + \beta) $$
 
 - Energía potencial elástica del resorte de la articulación (Vs):
 
-  $$ V_s = \\frac{1}{2} K_s \\beta^2 $$
+  $$ V_s = \frac{1}{2} K_s \beta^2 $$
 
 - Energía cinética del motor (Kh):
 
-  $$ K_h = \\frac{1}{2} J_h (\\dot{\\theta})^2 $$
+  $$ K_h = \frac{1}{2} J_h (\dot{\theta})^2 $$
 
 - Energía cinética del enlace (Kl):
 
-  $$ K_l = \\frac{1}{2} J_l (\\dot{\\theta} + \\dot{\\beta})^2 $$
+  $$ K_l = \frac{1}{2} J_l (\dot{\theta} + \dot{\beta})^2 $$
+
 
 ### Energía Potencial y Energía Cinética
 
