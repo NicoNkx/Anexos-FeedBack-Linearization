@@ -14,3 +14,13 @@ Este repositorio contiene los **anexos y archivos complementarios** del trabajo 
 Todos los archivos están organizados para que puedan ser **ejecutados y reutilizados fácilmente**. Se recomienda contar con una instalación de **MATLAB con Symbolic Math Toolbox** y **Simulink** para asegurar compatibilidad.
 
 Este repositorio está pensado como un recurso educativo y de referencia. ¡Siéntete libre de explorar, replicar!
+
+## Instrucciones de uso
+
+1. 📂 Abre el archivo `.mlx` directamente desde MATLAB.
+2. ▶️ Ejecuta el script completo: los gráficos, análisis y resultados se generarán automáticamente gracias a la visualización integrada del Live Script.
+3. 🛠️ Si deseas explorar o modificar el modelo de control en Simulink:
+   - Abre el archivo `.slx`.
+   - El modelo está **dividido en sistemas y subsistemas**, lo que facilita su comprensión, modificación y análisis por partes.
+
+> 💡 No se requieren pasos adicionales para obtener los resultados: todo el flujo está automatizado y diseñado para máxima claridad y reproducibilidad.
